@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    
+}
+
+.titulo{
+    color: hsl(0, 89%, 38%);
+    font-size: 40px;
+}
+
+.f-a{
+    color: whitesmoke;
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 19cm;
+}
+
+.s-a{
+    color: whitesmoke;
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 13px;
+}
+
+.t-a{
+    color: whitesmoke;
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 13px;
+}
+
+.q-a{
+    color: whitesmoke;
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 13px;
+}
+
+.container{
+    background-color: rgb(17, 15, 15);
+    display: flex;
+    align-self: stretch;
+    background: -moz-linear-gradient(bottom, #383535, #000000);
+    padding: 20px;
+}
+
+header{
+    background-color: rgb(17, 15, 15);
+}
